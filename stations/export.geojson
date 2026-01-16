@@ -1,0 +1,7814 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-16T19:14:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269662884",
+        "name": "الحضرة",
+        "name:ar": "الحضرة",
+        "name:en": "Al-Hadra",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9299316,
+          31.204076
+        ]
+      },
+      "id": "node/269662884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271864421",
+        "alt_name": "محطة مصر",
+        "alt_name:en": "Misr Station",
+        "name": "محطة رمسيس",
+        "name:ar": "محطة رمسيس",
+        "name:de": "Ramses-Bahnhof",
+        "name:en": "Ramses Station",
+        "name:fa": "ایستگاه رامسس",
+        "name:fr": "Station Ramsès",
+        "name:ml": "റാംസെസ് സ്റ്റേഷൻ",
+        "operator": "سكك حديد مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "train",
+        "train": "yes",
+        "wikidata": "Q633754",
+        "wikimedia_commons": "Category:Ramses Station",
+        "wikipedia": "ar:محطة مصر (القاهرة)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2460533,
+          30.0629785
+        ]
+      },
+      "id": "node/271864421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272197931",
+        "name": "شبرا الخيمة",
+        "name:ar": "شبرا الخيمة",
+        "name:en": "Shobra Al-Kheima",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2446088,
+          30.1224837
+        ]
+      },
+      "id": "node/272197931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316708494",
+        "name": "الحوامدية",
+        "name:ar": "الحوامدية",
+        "name:en": "Al-Hawamdiwa",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2703737,
+          29.8943151
+        ]
+      },
+      "id": "node/316708494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316709022",
+        "name": "المزغونة",
+        "name:ar": "المزغونة",
+        "name:en": "El-Mazghona",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2713823,
+          29.8089181
+        ]
+      },
+      "id": "node/316709022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316710105",
+        "name": "العيط",
+        "name:ar": "العيط",
+        "name:en": "El-Aiat",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2558359,
+          29.6200085
+        ]
+      },
+      "id": "node/316710105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316713741",
+        "name": "أبو قير",
+        "name:ar": "أبو قير",
+        "name:de": "Abukir",
+        "name:en": "Abu Qir",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0617561,
+          31.3172285
+        ]
+      },
+      "id": "node/316713741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316877183",
+        "name": "محطة الفرز للسكة الحديد",
+        "name:ar": "محطة الفرز للسكة الحديد",
+        "name:en": "Al-Farz Station",
+        "name:fa": "ایستگاه راه آهن فرز",
+        "note": "correct arabic tag",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2675878,
+          30.0865968
+        ]
+      },
+      "id": "node/316877183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317997201",
+        "name": "كفر الدوار",
+        "name:ar": "كفر الدوار",
+        "name:en": "Kafr El-Dauwar",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1303561,
+          31.1323499
+        ]
+      },
+      "id": "node/317997201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318014918",
+        "name": "برج العرب",
+        "name:ar": "برج العرب",
+        "name:azb": "برج العرب",
+        "name:de": "Borg el-Arab",
+        "name:fa": "برج العرب جدیده",
+        "name:fr": "Borg el-Arab",
+        "name:ru": "Борг-эль-Араб",
+        "name:ur": "برج العرب",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5488069,
+          30.8955044
+        ]
+      },
+      "id": "node/318014918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318015125",
+        "alt_name": "جبل الحمام",
+        "int_name": "Gabel el Hammâm, Gabel al Hammam",
+        "name": "جبل الحمام",
+        "name:ar": "جبل الحمام",
+        "name:ar1": "جبل الحمام",
+        "name:de": "Gabel al Hammam",
+        "name:en": "Gabel al Hammam",
+        "name:fr": "Gabel al Hammam",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4977651,
+          30.8800018
+        ]
+      },
+      "id": "node/318015125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318020034",
+        "addr:city": "الجراولة",
+        "addr:city:ar": "الجراولة",
+        "int_name": "Garāwla;Garawla;Jerawla",
+        "name": "الجراولة",
+        "name:ar": "الجراولة",
+        "name:en": "Garawla",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.394073,
+          31.2412578
+        ]
+      },
+      "id": "node/318020034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318020042",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3326036,
+          31.2935726
+        ]
+      },
+      "id": "node/318020042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321239620",
+        "image": "https://photos.app.goo.gl/buTNKmVTpJKcSyfB7",
+        "int_name": "Aswān, Aswan",
+        "name": "محطة سكة حديد أسوان",
+        "name:ar": "محطة سكة حديد أسوان",
+        "name:ar1": "أسوان",
+        "name:ca": "Assuan",
+        "name:de": "Assuan",
+        "name:en": "Aswan Train Station",
+        "name:fr": "Aswan",
+        "name:sk": "Asuán",
+        "operator": "سكك حديد مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "train",
+        "train": "yes",
+        "wikidata": "Q3095680",
+        "wikipedia": "fr:Gare d'Assouan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9025252,
+          24.0997955
+        ]
+      },
+      "id": "node/321239620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324557234",
+        "name": "قليوب",
+        "name:ar": "قليوب",
+        "name:en": "Qalyub",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2254317,
+          30.1797847
+        ]
+      },
+      "id": "node/324557234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325776301",
+        "alt_name": "محطة الجبل الأصفر",
+        "int_name": "Maḩaţţat al Jabal al Aşfar, Mahattat al Jabal al Asfar",
+        "name": "محطة الجبل الأصفر",
+        "name:ar": "محطة الجبل الأصفر",
+        "name:ar1": "محطة الجبل الأصفر",
+        "name:de": "Mahattat al Jabal al Asfar",
+        "name:en": "Mahattat al Jabal al Asfar",
+        "name:fr": "Mahattat al Jabal al Asfar",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "bing",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3628289,
+          30.2040303
+        ]
+      },
+      "id": "node/325776301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325776390",
+        "name": "ابو زعبل البلد",
+        "name:ar": "ابو زعبل البلد",
+        "name:en": "Abu Zaabal Al-Balad",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3552816,
+          30.2497151
+        ]
+      },
+      "id": "node/325776390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325778920",
+        "name": "المرج",
+        "name:ar": "المرج",
+        "name:en": "Al-Marg",
+        "name:fa": "مرج",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3395991,
+          30.1647603
+        ]
+      },
+      "id": "node/325778920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325794384",
+        "alt_name": "طوخ",
+        "name": "طوخ",
+        "name:ar": "طوخ",
+        "name:en": "Tukh",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1971568,
+          30.3555922
+        ]
+      },
+      "id": "node/325794384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325795208",
+        "name": "قها",
+        "name:ar": "قها",
+        "name:en": "Qaha",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2086823,
+          30.2849905
+        ]
+      },
+      "id": "node/325795208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336223060",
+        "name": "Baris",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.599294,
+          24.7066449
+        ]
+      },
+      "id": "node/336223060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339078708",
+        "name": "محطة سيدي بشر",
+        "name:ar": "سيدي بشر",
+        "name:en": "Sidi Beshr",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9940489,
+          31.2570693
+        ]
+      },
+      "id": "node/339078708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520511965",
+        "name": "جرجا",
+        "name:ar": "جرجا",
+        "name:en": "Gerga",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.889107,
+          26.3364072
+        ]
+      },
+      "id": "node/520511965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520512280",
+        "name": "نجع حمادي",
+        "name:ar": "نجع حمادي",
+        "name:en": "Naga Hammadi",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.24105,
+          26.0432778
+        ]
+      },
+      "id": "node/520512280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520512542",
+        "name": "المنشاة",
+        "name:ar": "المنشاة",
+        "name:en": "Al-Manshah",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7967128,
+          26.475705
+        ]
+      },
+      "id": "node/520512542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520513134",
+        "alt_name": "محطة فاو",
+        "int_name": "Fâw Station, Faw Station",
+        "name": "محطة فاو",
+        "name:ar": "محطة فاو",
+        "name:ar1": "محطة فاو",
+        "name:de": "Faw Station",
+        "name:en": "Faw Station",
+        "name:fr": "Faw Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4120068,
+          26.1011067
+        ]
+      },
+      "id": "node/520513134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520513717",
+        "name": "قنا",
+        "name:ar": "قنا",
+        "name:en": "Qena",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7271236,
+          26.1625853
+        ]
+      },
+      "id": "node/520513717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520514464",
+        "addr:city": "أسيوط",
+        "addr:country": "EG",
+        "name": "أسيوط",
+        "name:ar": "أسيوط",
+        "name:azb": "اسیوط",
+        "name:be": "Асьют",
+        "name:cop": "Ⲥⲓⲟⲟⲩⲧ",
+        "name:de": "Asyut",
+        "name:el": "Ασιούτ",
+        "name:en": "Asyut",
+        "name:es": "Asiut",
+        "name:fa": "اسیوط",
+        "name:grc": "Λυκόπολις",
+        "name:hy": "Ասյութ",
+        "name:pnb": "اسیوت",
+        "name:pt": "Assiute",
+        "name:ru": "Асьют",
+        "name:sr": "Асјут",
+        "name:uk": "Асьют",
+        "name:ur": "اسیوط",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1881884,
+          27.1803762
+        ]
+      },
+      "id": "node/520514464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520514974",
+        "name": "مغاغة",
+        "name:ar": "مغاغة",
+        "name:en": "Maghagheh",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8385764,
+          28.6495512
+        ]
+      },
+      "id": "node/520514974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520515100",
+        "name": "الفشن",
+        "name:ar": "الفشن",
+        "name:en": "Fashn",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9037843,
+          28.8232028
+        ]
+      },
+      "id": "node/520515100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520515246",
+        "name": "بني سويف",
+        "name:ar": "بني سويف",
+        "name:en": "Beni Suef",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0947833,
+          29.0762716
+        ]
+      },
+      "id": "node/520515246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520515418",
+        "name": "الواسطة",
+        "name:ar": "الوسطى",
+        "name:en": "Al-Wasitah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2043464,
+          29.3369651
+        ]
+      },
+      "id": "node/520515418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768026317",
+        "alt_name": "جلال",
+        "int_name": "Jalāl, Jalal",
+        "name": "جلال",
+        "name:ar": "جلال",
+        "name:ar1": "جلال",
+        "name:de": "Jalal",
+        "name:en": "Jalal",
+        "name:fr": "Jalal",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1813226,
+          31.03556
+        ]
+      },
+      "id": "node/768026317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768026921",
+        "int_name": "Sîdi ‘Abd el Raḥmân, Sidi Abd al Rahman",
+        "name": "محطة سيدى عبد الرحمن",
+        "name:ar": "محطة سيدى عبد الرحمن",
+        "name:de": "Sidi Abdelrahman",
+        "name:en": "Sidi Abdelrahman",
+        "name:fr": "Sidi Abdelrahman",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7227548,
+          30.9691877
+        ]
+      },
+      "id": "node/768026921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768077221",
+        "alt_name": "محطة الخطارة",
+        "int_name": "Maḩaţţat al Khaţţārah, Mahattat al Khattarah",
+        "name": "محطة الخطارة",
+        "name:ar": "محطة الخطارة",
+        "name:ar1": "محطة الخطارة",
+        "name:de": "Mahattat al Khattarah",
+        "name:en": "Mahattat al Khattarah",
+        "name:fr": "Mahattat al Khattarah",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8755759,
+          24.2047501
+        ]
+      },
+      "id": "node/768077221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768077307",
+        "alt_name": "سلسلة",
+        "int_name": "Silsila, Silsila",
+        "name": "سلسلة",
+        "name:ar": "سلسلة",
+        "name:ar1": "سلسلة",
+        "name:de": "Silsila",
+        "name:en": "Silsila",
+        "name:fr": "Silsila",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.95,
+          24.583333
+        ]
+      },
+      "id": "node/768077307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768084639",
+        "alt_name": "محطة الأشراف",
+        "int_name": "El Ashrâf Station, Al Ashraf Station, Mahattat al Ashraf",
+        "name": "محطة الأشراف",
+        "name:ar": "محطة الأشراف",
+        "name:ar1": "محطة الأشراف",
+        "name:de": "Al Ashraf Station",
+        "name:en": "Al Ashraf Station",
+        "name:fr": "Al Ashraf Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.783333,
+          26.083333
+        ]
+      },
+      "id": "node/768084639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768085014",
+        "alt_name": "محطة البليانا الجديدة",
+        "int_name": "El Balyana, Al Balyana, Al Blina Balyana Station",
+        "name": "محطة البليانا الجديدة",
+        "name:ar": "محطة البليانا الجديدة",
+        "name:ar1": "محطة البليانا الجديدة",
+        "name:de": "Al Balyana",
+        "name:en": "Al Balyana",
+        "name:fr": "Al Balyana",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9972169,
+          26.2348173
+        ]
+      },
+      "id": "node/768085014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768091620",
+        "alt_name": "بني قرة",
+        "int_name": "Banī Qurrah, Bani Qurrah",
+        "name": "بني قرة",
+        "name:ar": "بني قرة",
+        "name:ar1": "بني قرة",
+        "name:de": "Bani Qurrah",
+        "name:en": "Bani Qurrah",
+        "name:fr": "Bani Qurrah",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8936852,
+          27.3872227
+        ]
+      },
+      "id": "node/768091620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768095266",
+        "alt_name": "منشية سلطان",
+        "int_name": "Manshīyet Sultān, Manshiyet Sultan",
+        "name": "منشية سلطان",
+        "name:ar": "منشية سلطان",
+        "name:ar1": "منشية سلطان",
+        "name:de": "Manshiyet Sultan",
+        "name:en": "Manshiyet Sultan",
+        "name:fr": "Manshiyet Sultan",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9177968,
+          30.5297534
+        ]
+      },
+      "id": "node/768095266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768526257",
+        "alt_name": "محطة إنشاص الرمل",
+        "int_name": "Inshas er Raml",
+        "name": "محطة إنشاص الرمل",
+        "name:ar": "محطة إنشاص الرمل",
+        "name:ar1": "محطة إنشاص الرمل",
+        "name:de": "Inshas al Raml",
+        "name:en": "Inshas al Raml",
+        "name:fr": "Inshas al Raml",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4547718,
+          30.3798071
+        ]
+      },
+      "id": "node/768526257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768549946",
+        "alt_name": "محطة محي الدين",
+        "int_name": "Maḩaţţat Muḩyī ad Dīn, Mahattat Muhyi al Din",
+        "name": "محطة محي الدين",
+        "name:ar": "محطة محي الدين",
+        "name:ar1": "محطة محي الدين",
+        "name:de": "Mahattat Muhyi al Din",
+        "name:en": "Mahattat Muhyi al Din",
+        "name:fr": "Mahattat Muhyi al Din",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.266667,
+          30.55
+        ]
+      },
+      "id": "node/768549946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768550630",
+        "alt_name": "محطة أبو غالب",
+        "int_name": "Maḩaţţat Abū Ghālib, Mahattat Abu Ghalib",
+        "name": "محطة أبو غالب",
+        "name:ar": "محطة أبو غالب",
+        "name:ar1": "محطة أبو غالب",
+        "name:de": "Mahattat Abu Ghalib",
+        "name:en": "Mahattat Abu Ghalib",
+        "name:fr": "Mahattat Abu Ghalib",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9076178,
+          30.2734433
+        ]
+      },
+      "id": "node/768550630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768550706",
+        "alt_name": "الوردين",
+        "int_name": "Al Wardian",
+        "name": "الوردين",
+        "name:ar": "الوردين",
+        "name:ar1": "الوردين",
+        "name:de": "Al Wardian",
+        "name:en": "Al Wardian",
+        "name:fr": "Al Wardian",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8834703,
+          30.2913324
+        ]
+      },
+      "id": "node/768550706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768551883",
+        "alt_name": "الخانكة",
+        "int_name": "El-Khânka, Al Khanka",
+        "name": "الخانكة",
+        "name:ar": "الخانكة",
+        "name:ar1": "الخانكة",
+        "name:de": "Al Khanka",
+        "name:en": "Al Khanka",
+        "name:fr": "Al Khanka",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3657336,
+          30.2130321
+        ]
+      },
+      "id": "node/768551883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768556560",
+        "alt_name": "أبوكساح",
+        "int_name": "Abūksāh, Abuksah",
+        "name": "أبوكساح",
+        "name:ar": "أبوكساح",
+        "name:ar1": "أبوكساح",
+        "name:de": "Abuksah",
+        "name:en": "Abuksah",
+        "name:fr": "Abuksah",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.716667,
+          29.4
+        ]
+      },
+      "id": "node/768556560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768556869",
+        "alt_name": "محطة سيلة",
+        "int_name": "Sella, Sella, Sayla",
+        "name": "محطة سيلة",
+        "name:ar": "محطة سيلة",
+        "name:ar1": "محطة سيلة",
+        "name:de": "Sella",
+        "name:en": "Sella",
+        "name:fr": "Sella",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9723531,
+          29.3319131
+        ]
+      },
+      "id": "node/768556869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768565346",
+        "alt_name": "محطة بغدادلي باشا",
+        "int_name": "Maḩaţţat Baghdādlī Bāshā, Mahattat Baghdadli Basha",
+        "name": "محطة بغدادلي باشا",
+        "name:ar": "محطة بغدادلي باشا",
+        "name:ar1": "محطة بغدادلي باشا",
+        "name:de": "Mahattat Baghdadli Basha",
+        "name:en": "Mahattat Baghdadli Basha",
+        "name:fr": "Mahattat Baghdadli Basha",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.333333,
+          30.6
+        ]
+      },
+      "id": "node/768565346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768565555",
+        "alt_name": "محطة الصفين",
+        "int_name": "El-Ṣaffein Station, Al Saffein Station",
+        "name": "محطة الصفين",
+        "name:ar": "محطة الصفين",
+        "name:ar1": "محطة الصفين",
+        "name:de": "Al Saffein Station",
+        "name:en": "Al Saffein Station",
+        "name:fr": "Al Saffein Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.266667,
+          30.6
+        ]
+      },
+      "id": "node/768565555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768565564",
+        "alt_name": "سعد باشا زغلول",
+        "int_name": "Sa‘d Pasha Zaghlûl, Sad Pasha Zaghlul",
+        "name": "سعد باشا زغلول",
+        "name:ar": "سعد باشا زغلول",
+        "name:ar1": "سعد باشا زغلول",
+        "name:de": "Sad Pasha Zaghlul",
+        "name:en": "Sad Pasha Zaghlul",
+        "name:fr": "Sad Pasha Zaghlul",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.633333
+        ]
+      },
+      "id": "node/768565564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768567186",
+        "alt_name": "زرقون",
+        "int_name": "Zarqūn, Zarqun",
+        "name": "زرقون",
+        "name:ar": "زرقون",
+        "name:ar1": "زرقون",
+        "name:de": "Zarqun",
+        "name:en": "Zarqun",
+        "name:fr": "Zarqun",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.466667,
+          31.116667
+        ]
+      },
+      "id": "node/768567186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768567334",
+        "alt_name": "الطرح",
+        "int_name": "El-Tarh, Al Tarh",
+        "name": "الطرح",
+        "name:ar1": "الطرح",
+        "name:en": "El-Tarh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1262299,
+          31.2675627
+        ]
+      },
+      "id": "node/768567334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768577699",
+        "int_name": "Al ‘Amā’id, Al Amaid, Al Imayid",
+        "name": "العمائد",
+        "name:ar": "العمائد",
+        "name:de": "Al Amaid",
+        "name:en": "Al Amaid",
+        "name:fr": "Al Amaid",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1945681,
+          30.7895688
+        ]
+      },
+      "id": "node/768577699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768579929",
+        "alt_name": "كوم الطويل",
+        "name": "كوم الطويل",
+        "name:ar": "كوم الطويل",
+        "name:ar1": "كوم الطويل",
+        "name:de": "Kom al Tawil",
+        "name:en": "Kom al Tawil",
+        "name:fr": "Kom al Tawil",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0891559,
+          31.1978437
+        ]
+      },
+      "id": "node/768579929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768581285",
+        "alt_name": "محطة خمسة",
+        "int_name": "Khamsa Station, Khamsa Station",
+        "name": "محطة خمسة",
+        "name:ar": "محطة خمسة",
+        "name:ar1": "محطة خمسة",
+        "name:de": "Khamsa Station",
+        "name:en": "Khamsa Station",
+        "name:fr": "Khamsa Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.383333,
+          30.416667
+        ]
+      },
+      "id": "node/768581285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768582840",
+        "alt_name": "محطة العسيرات",
+        "int_name": "Maḩaţţat al ‘Asīrāt, Mahattat al Asirat",
+        "name": "محطة العسيرات",
+        "name:ar": "محطة العسيرات",
+        "name:ar1": "محطة العسيرات",
+        "name:de": "Mahattat al Asirat",
+        "name:en": "Mahattat al Asirat",
+        "name:fr": "Mahattat al Asirat",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8201936,
+          26.3912967
+        ]
+      },
+      "id": "node/768582840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768583365",
+        "alt_name": "الدابة",
+        "int_name": "El-Dabba, Al Dabba",
+        "name": "الدابة",
+        "name:ar": "الدابة",
+        "name:ar1": "الدابة",
+        "name:de": "Al Dabba",
+        "name:en": "Al Dabba",
+        "name:fr": "Al Dabba",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2928535,
+          26.0721448
+        ]
+      },
+      "id": "node/768583365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768585071",
+        "alt_name": "محطة إشنين",
+        "int_name": "Ishnîn Halt, Ishnin Halt",
+        "name": "محطة إشنين",
+        "name:ar": "محطة إشنين",
+        "name:ar1": "محطة إشنين",
+        "name:de": "Ishnin Halt",
+        "name:en": "Ishnin Halt",
+        "name:fr": "Ishnin Halt",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8245832,
+          28.6137699
+        ]
+      },
+      "id": "node/768585071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768587159",
+        "alt_name": "سدس",
+        "int_name": "Sads, Sads",
+        "name": "سدس",
+        "name:ar": "سدس",
+        "name:ar1": "سدس",
+        "name:de": "Sads",
+        "name:en": "Sads",
+        "name:fr": "Sads",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95,
+          28.9
+        ]
+      },
+      "id": "node/768587159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768592811",
+        "alt_name": "محطة أبو أكدة",
+        "int_name": "Abu Akda Station, Abu Akda Station",
+        "name": "محطة أبو أكدة",
+        "name:ar": "محطة أبو أكدة",
+        "name:ar1": "محطة أبو أكدة",
+        "name:de": "Abu Akda Station",
+        "name:en": "Abu Akda Station",
+        "name:fr": "Abu Akda Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5750833,
+          30.5725445
+        ]
+      },
+      "id": "node/768592811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768592894",
+        "alt_name": "البعالوة",
+        "int_name": "Al Ba‘āliwah, Al Baaliwah",
+        "name": "البعالوة",
+        "name:ar": "البعالوة",
+        "name:ar1": "البعالوة",
+        "name:de": "Al Baaliwah",
+        "name:en": "Al Baaliwah",
+        "name:fr": "Al Baaliwah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8581665,
+          30.5480825
+        ]
+      },
+      "id": "node/768592894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768596322",
+        "alt_name": "عزبة الكاب",
+        "int_name": "‘Ezbet el Câp, Ezbet al Cap",
+        "name": "عزبة الكاب",
+        "name:ar": "عزبة الكاب",
+        "name:ar1": "عزبة الكاب",
+        "name:de": "Ezbet al Cap",
+        "name:en": "Ezbet al Cap",
+        "name:fr": "Ezbet al Cap",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.307778,
+          30.950556
+        ]
+      },
+      "id": "node/768596322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768596447",
+        "alt_name": "محطة التينة",
+        "int_name": "El Tineh, Al Tineh, Al Tinah, Al Tinah",
+        "name": "محطة التينة",
+        "name:ar": "محطة التينة",
+        "name:ar1": "محطة التينة",
+        "name:de": "Al Tineh",
+        "name:en": "Al Tineh",
+        "name:fr": "Al Tineh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3074707,
+          31.0425076
+        ]
+      },
+      "id": "node/768596447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768599168",
+        "alt_name": "فوكة",
+        "int_name": "Fūkah, Fukah",
+        "name": "فوكة",
+        "name:ar": "فوكة",
+        "name:ar1": "فوكة",
+        "name:de": "Fukah",
+        "name:en": "Fukah",
+        "name:fr": "Fukah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9171619,
+          31.067756
+        ]
+      },
+      "id": "node/768599168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768600995",
+        "alt_name": "الشين",
+        "int_name": "El-Shîn, Al Shin",
+        "name": "الشين",
+        "name:ar": "الشين",
+        "name:ar1": "الشين",
+        "name:de": "Al Shin",
+        "name:en": "Al Shin",
+        "name:fr": "Al Shin",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.896944,
+          31.011944
+        ]
+      },
+      "id": "node/768600995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768601634",
+        "alt_name": "شرنوب",
+        "int_name": "Sharnūb, Sharnub",
+        "name": "شرنوب",
+        "name:ar": "شرنوب",
+        "name:ar1": "شرنوب",
+        "name:de": "Sharnub",
+        "name:en": "Sharnub",
+        "name:fr": "Sharnub",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.583333,
+          31.016667
+        ]
+      },
+      "id": "node/768601634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768730269",
+        "alt_name": "نزالي جانوب",
+        "int_name": "Nazāli Gānūb, Nazali Ganub",
+        "name": "نزالي جانوب",
+        "name:ar": "نزالي جانوب",
+        "name:ar1": "نزالي جانوب",
+        "name:de": "Nazali Ganub",
+        "name:en": "Nazali Ganub",
+        "name:fr": "Nazali Ganub",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8331136,
+          27.438287
+        ]
+      },
+      "id": "node/768730269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768736618",
+        "alt_name": "المريس",
+        "int_name": "El Marîs Junction Cabin, Al Maris Junction Cabin",
+        "name": "المريس",
+        "name:ar": "المريس",
+        "name:ar1": "المريس",
+        "name:de": "Al Maris Junction Cabin",
+        "name:en": "Al Maris Junction Cabin",
+        "name:fr": "Al Maris Junction Cabin",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.566667,
+          25.6500046
+        ]
+      },
+      "id": "node/768736618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768738154",
+        "alt_name": "محطة المطاعنة",
+        "int_name": "El Matâ‘na Station, Al Matana Station, Mahttat al Matainah",
+        "name": "محطة المطاعنة",
+        "name:ar": "محطة المطاعنة",
+        "name:ar1": "محطة المطاعنة",
+        "name:de": "Al Matana Station",
+        "name:en": "Al Matana Station",
+        "name:fr": "Al Matana Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5666924,
+          25.3833101
+        ]
+      },
+      "id": "node/768738154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768757269",
+        "alt_name": "محطة الصوامعة",
+        "int_name": "Maḩaţţat aş Şawāmi‘ah, Mahattat al Sawamiah",
+        "name": "محطة الصوامعة",
+        "name:ar": "محطة الصوامعة",
+        "name:ar1": "محطة الصوامعة",
+        "name:de": "Mahattat al Sawamiah",
+        "name:en": "Mahattat al Sawamiah",
+        "name:fr": "Mahattat al Sawamiah",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.533333,
+          26.733333
+        ]
+      },
+      "id": "node/768757269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768766271",
+        "alt_name": "محطة جبل الجفرا",
+        "int_name": "Gebel el- Gafra Station, Gebel al Gafra Station",
+        "name": "محطة جبل الجفرا",
+        "name:ar": "محطة جبل الجفرا",
+        "name:ar1": "محطة جبل الجفرا",
+        "name:de": "Gebel al Gafra Station",
+        "name:en": "Gebel al Gafra Station",
+        "name:fr": "Gebel al Gafra Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.966667,
+          30.15
+        ]
+      },
+      "id": "node/768766271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768766275",
+        "alt_name": "محطة وادي السيل",
+        "int_name": "Maḩaţţat Wādī as Sayl, Mahattat Wadi al Sayl",
+        "name": "محطة وادي السيل",
+        "name:ar": "محطة وادي السيل",
+        "name:ar1": "محطة وادي السيل",
+        "name:de": "Mahattat Wadi al Sayl",
+        "name:en": "Mahattat Wadi al Sayl",
+        "name:fr": "Mahattat Wadi al Sayl",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8997634,
+          30.1630426
+        ]
+      },
+      "id": "node/768766275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768766285",
+        "int_name": "Maḩaţţat ar Rubayqī, Mahattat al Rubayqi",
+        "name": "محطة الروبيكي",
+        "name:ar": "محطة الروبيكي",
+        "name:ar1": "محطة الروبيكي",
+        "name:de": "Mahattat al Rubayqi",
+        "name:en": "Mahattat al Rubayqi",
+        "name:fr": "Mahattat al Rubayqi",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7714641,
+          30.1690624
+        ]
+      },
+      "id": "node/768766285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768792815",
+        "alt_name": "الفردان",
+        "int_name": "Al Firdān, Al Firdan, Al Ferdane",
+        "name": "الفردان",
+        "name:ar": "الفردان",
+        "name:ar1": "الفردان",
+        "name:de": "Al Firdan",
+        "name:en": "Al Firdan",
+        "name:fr": "Al Firdan",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3354586,
+          30.6866472
+        ]
+      },
+      "id": "node/768792815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769128533",
+        "alt_name": "محطة شاوة",
+        "int_name": "Maḩaţţat Shāwah, Mahattat Shawah",
+        "name": "محطة شاوة",
+        "name:ar": "محطة شاوة",
+        "name:ar1": "محطة شاوة",
+        "name:de": "Mahattat Shawah",
+        "name:en": "Mahattat Shawah",
+        "name:fr": "Mahattat Shawah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4016627,
+          30.9992721
+        ]
+      },
+      "id": "node/769128533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769129229",
+        "alt_name": "الشيخ القاسمي",
+        "int_name": "Ash Shaykh al Qāsimī, Al Shaykh al Qasimi",
+        "name": "الشيخ القاسمي",
+        "name:ar": "الشيخ القاسمي",
+        "name:ar1": "الشيخ القاسمي",
+        "name:de": "Al Shaykh al Qasimi",
+        "name:en": "Al Shaykh al Qasimi",
+        "name:fr": "Al Shaykh al Qasimi",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.466667,
+          30.816667
+        ]
+      },
+      "id": "node/769129229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769129657",
+        "alt_name": "فاضل الباشا",
+        "fixme": "no trainstation on this spot",
+        "int_name": "Fâḍel-Pasha, Fadal Pasha",
+        "name": "فاضل الباشا",
+        "name:ar": "فاضل الباشا",
+        "name:ar1": "فاضل الباشا",
+        "name:de": "Fadal Pasha",
+        "name:en": "Fadal Pasha",
+        "name:fr": "Fadal Pasha",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4,
+          31
+        ]
+      },
+      "id": "node/769129657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997582384",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5558042,
+          25.5983999
+        ]
+      },
+      "id": "node/997582384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997587303",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6344182,
+          25.2323211
+        ]
+      },
+      "id": "node/997587303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015922905",
+        "name": "المحلة الكبرى",
+        "name:ar": "المحلة الكبرى",
+        "name:en": "Al-Mahalla Al-Kubra",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1691355,
+          30.9690765
+        ]
+      },
+      "id": "node/1015922905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1018510154",
+        "name": "الإسماعيلية",
+        "name:ar": "الإسماعيلية",
+        "name:en": "Al-Ismailia",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2700587,
+          30.5933313
+        ]
+      },
+      "id": "node/1018510154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1018818485",
+        "alt_name": "الأقصر",
+        "image": "https://photos.app.goo.gl/m1H5Pvd6ZsjiJ1Rf9",
+        "int_name": "Al Uqsur (Luxor)",
+        "name": "الأقصر",
+        "name:ar": "الأقصر",
+        "name:ar1": "الأقصر",
+        "name:br": "Louksor",
+        "name:de": "Luxor",
+        "name:en": "Luxor",
+        "name:fr": "Louxor",
+        "name:pt": "Luxor",
+        "name:ru": "Луксор",
+        "name:sk": "Luxor",
+        "nat_name": "الأقصر",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6449661,
+          25.6965417
+        ]
+      },
+      "id": "node/1018818485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1019565539",
+        "name": "المنصورة",
+        "name:ar": "المنصورة",
+        "name:en": "Al-Mansura",
+        "platforms": "6",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3886258,
+          31.0454325
+        ]
+      },
+      "id": "node/1019565539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1019599326",
+        "name": "طلخا",
+        "name:ar": "طلخا",
+        "name:en": "Talkha",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3782753,
+          31.0541641
+        ]
+      },
+      "id": "node/1019599326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1020478764",
+        "name": "دمياط",
+        "name:ar": "دمياط",
+        "name:de": "Damiette",
+        "name:en": "Dumiat",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8071941,
+          31.4196953
+        ]
+      },
+      "id": "node/1020478764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022171353",
+        "name": "الفيوم",
+        "name:ar": "الفيوم",
+        "name:de": "Al-Fayyum",
+        "name:en": "Al-Fayoum",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8477358,
+          29.3090635
+        ]
+      },
+      "id": "node/1022171353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022196175",
+        "name": "الزقازيق",
+        "name:ar": "الزقازيق",
+        "name:en": "Al-Zaqaziq",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5020111,
+          30.5822027
+        ]
+      },
+      "id": "node/1022196175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022251311",
+        "name": "دمنهور",
+        "name:ar": "دمنهور",
+        "name:en": "Damanhur",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4684692,
+          31.0342905
+        ]
+      },
+      "id": "node/1022251311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022358058",
+        "name": "المنيا",
+        "name:ar": "المنيا",
+        "name:en": "Al-Minya",
+        "platforms": "5",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7534861,
+          28.0967978
+        ]
+      },
+      "id": "node/1022358058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1023702822",
+        "alt_name": "القنطرة",
+        "int_name": "El Qantara, Al Qantara",
+        "name": "القنطرة",
+        "name:ar": "القنطرة",
+        "name:ar1": "القنطرة",
+        "name:de": "Al Qantara",
+        "name:en": "Al Qantara",
+        "name:fr": "Al Qantara",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3139299,
+          30.8573097
+        ]
+      },
+      "id": "node/1023702822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1024943367",
+        "name": "شبين الكوم",
+        "name:ar": "شبين الكوم",
+        "name:en": "Shibin Al-Kom",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0048963,
+          30.5533515
+        ]
+      },
+      "id": "node/1024943367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1024972031",
+        "name": "كفر الشيخ",
+        "name:ar": "كفر الشيخ",
+        "name:en": "Kafr Al-Sheikh",
+        "name:ru": "Кафр-эш-Шейх",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9391606,
+          31.1094593
+        ]
+      },
+      "id": "node/1024972031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1024994600",
+        "addr:city": "دسوق",
+        "addr:street": "الشركات",
+        "int_name": "Desouk Station",
+        "name": "دسوق",
+        "name:ar": "دسوق",
+        "name:de": "Disuk",
+        "name:en": "Desouk",
+        "operator": "سكك حديد مصر",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6414413,
+          31.1325999
+        ]
+      },
+      "id": "node/1024994600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027144453",
+        "addr:city": "أبو كبير‎",
+        "addr:city:ar": "أبو كبير",
+        "name": "أبو كبير",
+        "name:ar": "أبو كبير",
+        "name:de": "Abu Kabir",
+        "name:en": "Abu Kabir",
+        "name:fa": "ابو کبیر",
+        "name:ur": "ابوکبیر",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6685518,
+          30.7270309
+        ]
+      },
+      "id": "node/1027144453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027173234",
+        "name": "دكرنس",
+        "name:ar": "دكرنس",
+        "name:en": "Dekernes",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5990453,
+          31.0783785
+        ]
+      },
+      "id": "node/1027173234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1028067604",
+        "alt_name": "محطة تل الكبير",
+        "int_name": "Et Tell el Kebīr, Al Tall al Kebir, Tel al Kebir Station",
+        "name": "محطة تل الكبير",
+        "name:ar": "محطة تل الكبير",
+        "name:ar1": "محطة تل الكبير",
+        "name:de": "Al Tall al Kebir",
+        "name:en": "Al Tall al Kebir",
+        "name:fr": "Al Tall al Kebir",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7835625,
+          30.5628778
+        ]
+      },
+      "id": "node/1028067604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029624589",
+        "name": "بنها",
+        "name:ar": "بنها",
+        "name:en": "Banha",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1809685,
+          30.4560749
+        ]
+      },
+      "id": "node/1029624589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029706810",
+        "name": "ميت غمر",
+        "name:ar": "ميت غمر",
+        "name:en": "Mit Ghamr",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2604983,
+          30.7191272
+        ]
+      },
+      "id": "node/1029706810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1033287435",
+        "name": "محلة روح",
+        "name:ar": "محلة روح",
+        "name:en": "Mehallet Roh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0840581,
+          30.8733118
+        ]
+      },
+      "id": "node/1033287435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1035397813",
+        "name": "شربين",
+        "name:ar": "شربين",
+        "name:de": "Scharbin",
+        "name:en": "Shirbin",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5265923,
+          31.1915543
+        ]
+      },
+      "id": "node/1035397813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038549399",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8964296,
+          31.0130595
+        ]
+      },
+      "id": "node/1038549399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038549410",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7474775,
+          31.0906301
+        ]
+      },
+      "id": "node/1038549410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039233382",
+        "alt_name:cop": "Ⲫⲉⲗⲃⲏⲥ",
+        "name": "بلبيس",
+        "name:ar": "بلبيس",
+        "name:azb": "بلبیس",
+        "name:cop": "Ⲫⲉⲗⲃⲉⲥ",
+        "name:de": "Bilbeis",
+        "name:en": "Bilbeis",
+        "name:fr": "Bilbéis",
+        "name:hy": "Բիլբեյս",
+        "name:kk": "Бильбейс",
+        "name:ru": "Бильбейс",
+        "name:sr": "Билбејс",
+        "name:uk": "Більбейс",
+        "name:ur": "بلبیس",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5564454,
+          30.4284117
+        ]
+      },
+      "id": "node/1039233382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039310348",
+        "name": "سمادون",
+        "name:ar": "سمادون",
+        "name:en": "Samadon",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9577717,
+          30.3338909
+        ]
+      },
+      "id": "node/1039310348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039313595",
+        "name": "كفر الزيات",
+        "name:ar": "كفر الزيات",
+        "name:en": "Kafr Al-Zaiyat",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8153498,
+          30.8190079
+        ]
+      },
+      "id": "node/1039313595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039313722",
+        "name": "أشمون",
+        "name:ar": "أشمون",
+        "name:en": "Ashmoun",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9794024,
+          30.2988041
+        ]
+      },
+      "id": "node/1039313722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039314336",
+        "alt_name": "محطة الشهداء",
+        "int_name": "Esh Shuhada, Al Shuhada, Mahattat al Shuhada",
+        "name": "محطة الشهداء",
+        "name:ar": "محطة الشهداء",
+        "name:ar1": "محطة الشهداء",
+        "name:de": "Al Shuhada",
+        "name:en": "Al Shuhada",
+        "name:fr": "Al Shuhada",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8975622,
+          30.5890905
+        ]
+      },
+      "id": "node/1039314336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039343019",
+        "name": "تلا",
+        "name:ar": "تلا",
+        "name:en": "Tala",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9448938,
+          30.6778733
+        ]
+      },
+      "id": "node/1039343019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039369281",
+        "name": "إدكو",
+        "name:ar": "إدكو",
+        "name:en": "Idku",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3036688,
+          31.2983653
+        ]
+      },
+      "id": "node/1039369281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039369482",
+        "name": "رشيد",
+        "name:ar": "رشيد",
+        "name:de": "Rosetta",
+        "name:en": "Rosetta",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4193478,
+          31.4083114
+        ]
+      },
+      "id": "node/1039369482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039369509",
+        "alt_name": "محطة البصيلي",
+        "int_name": "Al Buşayit, Al Busayit, Mahattat al Busayl, Mahattat al Busayli",
+        "name": "محطة البصيلي",
+        "name:ar": "محطة البصيلي",
+        "name:ar1": "محطة البصيلي",
+        "name:de": "Al Busayit",
+        "name:en": "Al Busayit",
+        "name:fr": "Al Busayit",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4033021,
+          31.3321431
+        ]
+      },
+      "id": "node/1039369509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039391155",
+        "name": "مطوبس",
+        "name:ar": "مطوبس",
+        "name:en": "Mutubis",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525038,
+          31.2868746
+        ]
+      },
+      "id": "node/1039391155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039391169",
+        "name": "القصابي",
+        "name:ar": "القصابي",
+        "name:en": "Al-Qasabi",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6791785,
+          31.2642244
+        ]
+      },
+      "id": "node/1039391169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039398638",
+        "name": "فوة",
+        "name:ar": "فوة",
+        "name:en": "Fuwah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5529273,
+          31.2099415
+        ]
+      },
+      "id": "node/1039398638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039401955",
+        "addr:city": "قلين",
+        "name": "قلين",
+        "name:en": "Qallin",
+        "operator": "سكك حديد مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8403461,
+          31.0502025
+        ]
+      },
+      "id": "node/1039401955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039541796",
+        "name": "السنبلاوين",
+        "name:ar": "محطة قطار مدينة السنبلاوين",
+        "name:en": "Al-Sunbullawayn",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4616742,
+          30.8842583
+        ]
+      },
+      "id": "node/1039541796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039542007",
+        "int_name": "Abu-el-Shuqûq, Abu al Shuquq",
+        "name": "أبو الشقوق",
+        "name:ar": "أبو الشقوق",
+        "name:ar1": "أبو الشقوق",
+        "name:de": "Abu Al-Shuquq",
+        "name:en": "Abu Al-Shuquq",
+        "name:fr": "Abu Al-Shuquq",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.591333,
+          30.8323379
+        ]
+      },
+      "id": "node/1039542007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039566997",
+        "name": "السماعنة",
+        "name:ar": "السماعنة",
+        "name:en": "Al-Samaanah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8614954,
+          30.7864071
+        ]
+      },
+      "id": "node/1039566997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039567147",
+        "name": "فاقوس",
+        "name:ar": "فاقوس",
+        "name:en": "Faqous",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7945156,
+          30.7274994
+        ]
+      },
+      "id": "node/1039567147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039956176",
+        "name": "محطة قطار المعمورة",
+        "name:ar": "محطة المعمورة",
+        "name:en": "Maamoura",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0538727,
+          31.2941533
+        ]
+      },
+      "id": "node/1039956176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039990521",
+        "name": "سبك الضحاك",
+        "name:ar": "سبك الضحاك",
+        "name:en": "Subk Al-Dahak",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0693522,
+          30.4425816
+        ]
+      },
+      "id": "node/1039990521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040778821",
+        "alt_name": "الخطاطبة",
+        "int_name": "El Khataba, Al Khataba, Al Khatatebeh, Khataba",
+        "name": "الخطاطبة",
+        "name:ar": "الخطاطبة",
+        "name:ar1": "الخطاطبة",
+        "name:de": "Al-Khatatba",
+        "name:en": "Al-Khatatba",
+        "name:fr": "Al-Khatatba",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8184572,
+          30.3579232
+        ]
+      },
+      "id": "node/1040778821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040778845",
+        "name": "كوم حمادة",
+        "name:ar": "كوم حمادة",
+        "name:en": "Kom Hamada",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.697802,
+          30.7593783
+        ]
+      },
+      "id": "node/1040778845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040778959",
+        "name": "إيتاي البارود",
+        "name:ar": "إتاي البارود",
+        "name:en": "Ityai Al-Barud",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6618086,
+          30.8841951
+        ]
+      },
+      "id": "node/1040778959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040789405",
+        "name": "قنطرة شرقية",
+        "name:ar": "قنطرة شرقية",
+        "name:de": "Al-Qantara Scharq",
+        "name:en": "Qantara Sharqeya",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3971264,
+          30.8666855
+        ]
+      },
+      "id": "node/1040789405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040800195",
+        "name": "ميت ضافر",
+        "name:ar": "ميت ضافر",
+        "name:en": "Meet Dafer",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5452989,
+          31.0787888
+        ]
+      },
+      "id": "node/1040800195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040800284",
+        "name": "سلامون القماش",
+        "name:ar": "سلامون القماش",
+        "name:en": "Salamon Al-Qomash",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.461111,
+          31.0669471
+        ]
+      },
+      "id": "node/1040800284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040806645",
+        "name": "برمبال القديمة",
+        "name:ar": "برمبال القديمة",
+        "name:en": "Birimbal Al-Qadima",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7432308,
+          31.1576218
+        ]
+      },
+      "id": "node/1040806645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040806676",
+        "name": "ميت الخولى",
+        "name:ar": "ميت الخولى",
+        "name:en": "Meet Al-Khouly",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6526552,
+          31.1142201
+        ]
+      },
+      "id": "node/1040806676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040806712",
+        "name": "المنزلة",
+        "name:ar": "المنزلة",
+        "name:en": "Al-Manzala",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.932717,
+          31.1490267
+        ]
+      },
+      "id": "node/1040806712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040806727",
+        "name": "الجماليه",
+        "name:ar": "الجماليه",
+        "name:en": "Al-Gamaleya",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.86935,
+          31.1727669
+        ]
+      },
+      "id": "node/1040806727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040811607",
+        "name": "بلقاس",
+        "name:ar": "بلقاس",
+        "name:en": "Bilqas",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3554408,
+          31.2087203
+        ]
+      },
+      "id": "node/1040811607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040814157",
+        "addr:city": "بئر العبد",
+        "addr:city:ar": "بئر العبد",
+        "name": "بئر العبد",
+        "name:ar": "بئر العبد",
+        "name:de": "Bir al-Abd",
+        "name:en": "Bir el Abd",
+        "name:it": "Bir al-Abed",
+        "operator": "الهيئة القومية لسكك حديد مصر",
+        "operator:ar": "الهيئة القومية لسكك حديد مصر",
+        "operator:wikidata": "Q253927",
+        "operator:wikipedia": "ar:سكك حديد مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0076443,
+          31.003426
+        ]
+      },
+      "id": "node/1040814157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1041037218",
+        "name": "محطة شبين القناطر",
+        "name:ar": "محطة شبين القناطر",
+        "name:en": "Shebin Al-Qanater Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3154378,
+          30.3129898
+        ]
+      },
+      "id": "node/1041037218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1041084561",
+        "name": "كفر سعد البلد",
+        "name:ar": "كفر سعد البلد",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6563685,
+          31.3195897
+        ]
+      },
+      "id": "node/1041084561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1041084565",
+        "name": "كفر سعد",
+        "name:ar": "كفر سعد",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6889373,
+          31.355144
+        ]
+      },
+      "id": "node/1041084565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049682510",
+        "name": "طما",
+        "name:ar": "طما",
+        "name:en": "Tima",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4320112,
+          26.9048996
+        ]
+      },
+      "id": "node/1049682510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049859125",
+        "name": "إسنا",
+        "name:ar": "إسنا",
+        "name:en": "Isna",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5708378,
+          25.3100294
+        ]
+      },
+      "id": "node/1049859125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049926096",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8842132,
+          25.0161454
+        ]
+      },
+      "id": "node/1049926096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049926156",
+        "name": "المحاميد",
+        "name:ar": "المحاميد",
+        "name:en": "Al-Mahamid",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7781989,
+          25.1340812
+        ]
+      },
+      "id": "node/1049926156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049926367",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8793114,
+          25.0486143
+        ]
+      },
+      "id": "node/1049926367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1060253795",
+        "name": "بنى مزار",
+        "name:ar": "بنى مزار",
+        "name:en": "Beni Mazar",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8063817,
+          28.4951264
+        ]
+      },
+      "id": "node/1060253795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1086218676",
+        "name": "منيا القمح",
+        "name:ar": "منيا القمح",
+        "name:en": "Minya Al-Qamh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.34161,
+          30.5146824
+        ]
+      },
+      "id": "node/1086218676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1087859073",
+        "alt_name": "محطة أبو صوير",
+        "int_name": "Maḩaţţat Abū Şuwayr, Mahattat Abu Suwayr",
+        "name": "محطة أبو صوير",
+        "name:ar": "محطة أبو صوير",
+        "name:ar1": "محطة أبو صوير",
+        "name:de": "Mahattat Abu Suwayr",
+        "name:en": "Mahattat Abu Suwayr",
+        "name:fr": "Mahattat Abu Suwayr",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1164724,
+          30.5623104
+        ]
+      },
+      "id": "node/1087859073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1088062020",
+        "name": "Gelbana",
+        "name:ar": "محطة قطار جلبانة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5012148,
+          30.9348704
+        ]
+      },
+      "id": "node/1088062020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1088063381",
+        "name": "Baloza",
+        "name:ar": "محطة قطار بالوظة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.556183,
+          30.9979359
+        ]
+      },
+      "id": "node/1088063381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1088289923",
+        "alt_name": "محطة قويسنا",
+        "int_name": "Mahaţţat Quwaysinā, Mahattat Quwaysina",
+        "name": "محطة قويسنا",
+        "name:ar": "محطة قويسنا",
+        "name:ar1": "محطة قويسنا",
+        "name:de": "Mahattat Quwaysina",
+        "name:en": "Mahattat Quwaysina",
+        "name:fr": "Mahattat Quwaysina",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1399548,
+          30.5474791
+        ]
+      },
+      "id": "node/1088289923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1090852593",
+        "name": "ميت سلسيل",
+        "name:ar": "ميت سلسيل",
+        "name:en": "Meet Selseel",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.805552,
+          31.1633816
+        ]
+      },
+      "id": "node/1090852593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1090890989",
+        "name": "الباجور",
+        "name:ar": "الباجور",
+        "name:en": "Al-Bagur",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0371674,
+          30.4339709
+        ]
+      },
+      "id": "node/1090890989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1091247513",
+        "alt_name": "محطة الشلال",
+        "int_name": "Shallal, Shallal, Mahattat al Shallal",
+        "name": "محطة الشلال",
+        "name:ar": "محطة الشلال",
+        "name:ar1": "محطة الشلال",
+        "name:de": "Shallal",
+        "name:en": "Shallal",
+        "name:fr": "Shallal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.90961,
+          24.0380761
+        ]
+      },
+      "id": "node/1091247513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1092461886",
+        "name": "بركة السبع",
+        "name:ar": "بركة السبع",
+        "name:en": "Birket Al-Saba",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0802481,
+          30.6364457
+        ]
+      },
+      "id": "node/1092461886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093564915",
+        "name": "زفتى",
+        "name:ar": "زفتى",
+        "name:en": "Zifta",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2447861,
+          30.7230512
+        ]
+      },
+      "id": "node/1093564915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093710418",
+        "alt_name": "محطة السنطة",
+        "int_name": "Santa Station",
+        "name": "محطة السنطة",
+        "name:ar": "محطة السنطة",
+        "name:ar1": "محطة السنطة",
+        "name:de": "El Santa",
+        "name:en": "El Santa",
+        "name:fr": "El Santa",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1224677,
+          30.7305486
+        ]
+      },
+      "id": "node/1093710418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1094599866",
+        "name": "شبين الكوم الجديدة",
+        "name:ar": "شبين الكوم الجديدة",
+        "name:en": "Shibin Al-Kom New Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9962229,
+          30.5691181
+        ]
+      },
+      "id": "node/1094599866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1095112715",
+        "alt_name": "البغدادي",
+        "int_name": "El Bughdādi, Al Bughdadi",
+        "name": "البغدادي",
+        "name:ar": "البغدادي",
+        "name:ar1": "البغدادي",
+        "name:de": "Al Bughdadi",
+        "name:en": "Al Bughdadi",
+        "name:fr": "Al Bughdadi",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6027761,
+          25.6363502
+        ]
+      },
+      "id": "node/1095112715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1098334301",
+        "name": "السلوم",
+        "name:ar": "السلوم",
+        "name:en": "Al Sallum",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1460704,
+          31.5723799
+        ]
+      },
+      "id": "node/1098334301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1111472625",
+        "addr:postcode": "22611",
+        "name": "أبو حمص",
+        "name:ar": "1",
+        "name:en": "Abu Hummus",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3097319,
+          31.0849085
+        ]
+      },
+      "id": "node/1111472625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1111472626",
+        "alt_name": "محطة محرم بيك",
+        "int_name": "Moharram Bey, Moharram Bey",
+        "name": "محطة محرم بيك",
+        "name:ar": "محطة محرم بيك",
+        "name:ar1": "محطة محرم بيك",
+        "name:de": "Moharram Bey",
+        "name:en": "Moharram Bey",
+        "name:fr": "Moharram Bey",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9261461,
+          31.1860896
+        ]
+      },
+      "id": "node/1111472626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125556316",
+        "name": "منيل شيحا",
+        "name:ar": "منيل شيحا",
+        "name:en": "Manial Shiha",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2381004,
+          29.9518006
+        ]
+      },
+      "id": "node/1125556316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125997846",
+        "int_name": "Alexandria Station",
+        "name": "محطة مصر",
+        "name:ar": "محطة مصر",
+        "name:en": "Masr Station",
+        "name:fa": "ایستگاه مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q958574",
+        "wikimedia_commons": "Category:Alexandria Misr Station",
+        "wikipedia": "ar:محطة مصر (الإسكندرية)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9067595,
+          31.193363
+        ]
+      },
+      "id": "node/1125997846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1126060881",
+        "alt_name": "محطة القرش",
+        "int_name": "Maḩaţţat al Qirsh, Mahattat al Qirsh",
+        "name": "محطة القرش",
+        "name:ar": "محطة القرش",
+        "name:ar1": "محطة القرش",
+        "name:de": "Mahattat al Qirsh",
+        "name:en": "Mahattat al Qirsh",
+        "name:fr": "Mahattat al Qirsh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2978702,
+          30.6012748
+        ]
+      },
+      "id": "node/1126060881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1126061203",
+        "alt_name": "محطة معسكر الإسماعيلية",
+        "int_name": "Maḩaţţat al Mu‘askar, Mahattat al Muaskar, Moascar, Muaskar al Ismailiyah",
+        "name": "محطة معسكر الإسماعيلية",
+        "name:ar": "محطة معسكر الإسماعيلية",
+        "name:ar1": "محطة معسكر الإسماعيلية",
+        "name:de": "Mahattat Al-Muaskar",
+        "name:en": "Mahattat Al-Muaskar",
+        "name:fr": "Mahattat Al-Muaskar",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2531709,
+          30.5838358
+        ]
+      },
+      "id": "node/1126061203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1144106978",
+        "name": "الخارجة",
+        "name:ar": "الخارجة",
+        "name:en": "Kharga",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5552165,
+          25.3896804
+        ]
+      },
+      "id": "node/1144106978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1150599673",
+        "name": "محطة سكة حديد المطرية",
+        "name:de": "Matariyya",
+        "name:en": "El Matareya",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0350754,
+          31.1766865
+        ]
+      },
+      "id": "node/1150599673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1154166993",
+        "name": "الضبعه",
+        "name:ar": "الضبعه",
+        "name:en": "Al-Dabaah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4442506,
+          31.0276366
+        ]
+      },
+      "id": "node/1154166993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1156216297",
+        "internet_access": "wlan",
+        "name": "Damrais train station",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7417131,
+          28.12522
+        ]
+      },
+      "id": "node/1156216297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1320721139",
+        "alt_name": "نجع الكاجوج",
+        "int_name": "Kâgûg, Kagug",
+        "name": "نجع الكاجوج",
+        "name:ar": "نجع الكاجوج",
+        "name:ar1": "نجع الكاجوج",
+        "name:de": "Kagug",
+        "name:en": "Kagug",
+        "name:fr": "Kagug",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9471139,
+          24.6696422
+        ]
+      },
+      "id": "node/1320721139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1520761930",
+        "alt_name": "محطة الشلوفة",
+        "int_name": "Shallufa Station, Shallufa Station",
+        "name": "محطة الشلوفة",
+        "name:ar": "محطة الشلوفة",
+        "name:ar1": "محطة الشلوفة",
+        "name:de": "Shallufa Station",
+        "name:en": "Shallufa Station",
+        "name:fr": "Shallufa Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5632019,
+          30.1167134
+        ]
+      },
+      "id": "node/1520761930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1521661692",
+        "alt_name": "محطة جنيفة",
+        "int_name": "Gineifa, Gineifa",
+        "name": "محطة جنيفة",
+        "name:ar": "محطة جنيفة",
+        "name:ar1": "محطة جنيفة",
+        "name:de": "Gineifa",
+        "name:en": "Gineifa",
+        "name:fr": "Gineifa",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4277744,
+          30.2067292
+        ]
+      },
+      "id": "node/1521661692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1521665589",
+        "alt_name": "محطة فنارة",
+        "int_name": "Maḩaţţat Fanārah, Mahattat Fanarah",
+        "name": "محطة فنارة",
+        "name:ar": "محطة فنارة",
+        "name:ar1": "محطة فنارة",
+        "name:de": "Mahattat Fanarah",
+        "name:en": "Mahattat Fanarah",
+        "name:fr": "Mahattat Fanarah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3479299,
+          30.2767059
+        ]
+      },
+      "id": "node/1521665589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1521675663",
+        "alt_name": "محطة أبو سلطان",
+        "int_name": "Maḩaţţat Abū Sulţān, Mahattat Abu Sultan",
+        "name": "محطة أبو سلطان",
+        "name:ar": "محطة أبو سلطان",
+        "name:ar1": "محطة أبو سلطان",
+        "name:de": "Mahattat Abu Sultan",
+        "name:en": "Mahattat Abu Sultan",
+        "name:fr": "Mahattat Abu Sultan",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.312342,
+          30.4123671
+        ]
+      },
+      "id": "node/1521675663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1521683874",
+        "alt_name": "محطة البلاح",
+        "int_name": "Maḩaţţat al Ballāḩ, Mahattat al Ballah",
+        "name": "محطة البلاح",
+        "name:ar": "محطة البلاح",
+        "name:ar1": "محطة البلاح",
+        "name:de": "Mahattat al Ballah",
+        "name:en": "Mahattat al Ballah",
+        "name:fr": "Mahattat al Ballah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3166821,
+          30.7708766
+        ]
+      },
+      "id": "node/1521683874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1540484292",
+        "name": "قوص",
+        "name:ar": "قوص",
+        "name:en": "Qus",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7585718,
+          25.9153578
+        ]
+      },
+      "id": "node/1540484292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1540997074",
+        "int_name": "Maḩaţţat ar Ru’aysāt, Mahattat al Ruaysat",
+        "name": "محطة الرؤيسات",
+        "name:ar": "محطة الرؤيسات",
+        "name:de": "Mahattat al Ruaysat",
+        "name:en": "Mahattat al Ruaysat",
+        "name:fr": "Mahattat al Ruaysat",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3163908,
+          30.812337
+        ]
+      },
+      "id": "node/1540997074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1541494459",
+        "alt_name": "محطة سيدي حنيش",
+        "int_name": "Sidi Haneish Station, Sidi Haneish Station",
+        "name": "محطة سيدي حنيش",
+        "name:ar": "محطة سيدي حنيش",
+        "name:ar1": "محطة سيدي حنيش",
+        "name:de": "Sidi Haneish Station",
+        "name:en": "Sidi Haneish Station",
+        "name:fr": "Sidi Haneish Station",
+        "public_transport": "stop_position",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6285119,
+          31.1633788
+        ]
+      },
+      "id": "node/1541494459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1749540644",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1026567,
+          30.1788215
+        ]
+      },
+      "id": "node/1749540644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814704159",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0690126,
+          30.1744829
+        ]
+      },
+      "id": "node/1814704159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871904376",
+        "operator": "الهيئة القومية لسكك حديد مصر",
+        "operator:ar": "الهيئة القومية لسكك حديد مصر",
+        "operator:wikidata": "Q253927",
+        "operator:wikipedia": "ar:سكك حديد مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8396093,
+          30.9995916
+        ]
+      },
+      "id": "node/1871904376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871908167",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6819464,
+          30.9974532
+        ]
+      },
+      "id": "node/1871908167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1885009800",
+        "name": "محطة قطار المنتزة",
+        "name:ar": "محطة المنتزة",
+        "name:en": "Montazah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0214287,
+          31.28295
+        ]
+      },
+      "id": "node/1885009800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889457787",
+        "alt_name": "العلمين",
+        "int_name": "Al ‘Alamayn, Al Alamayn",
+        "name": "العلمين",
+        "name:ar": "العلمين",
+        "name:ar1": "العلمين",
+        "name:de": "Al Alamayn",
+        "name:en": "Al Alamayn",
+        "name:fr": "Al Alamayn",
+        "name:it": "El Alamein",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9562637,
+          30.8245427
+        ]
+      },
+      "id": "node/1889457787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889476237",
+        "addr:city": "مرسى مطروح",
+        "addr:city:ar": "مرسى مطروح",
+        "name": "مرسى مطروح",
+        "name:ar": "مرسى مطروح",
+        "name:en": "Marsa Matruh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2443664,
+          31.3485785
+        ]
+      },
+      "id": "node/1889476237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120516646",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0542619,
+          31.206995
+        ]
+      },
+      "id": "node/2120516646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265685728",
+        "name": "إمبابه",
+        "name:ar": "إمبابه",
+        "name:en": "Imbaba",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2177818,
+          30.0771206
+        ]
+      },
+      "id": "node/2265685728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265692735",
+        "name": "بشتيل",
+        "name:ar": "بشتيل",
+        "name:en": "Bashteel",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1850927,
+          30.0709859
+        ]
+      },
+      "id": "node/2265692735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2319635997",
+        "int_name": "Arād, Arad",
+        "name": "أراد",
+        "name:ar": "أراد",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1808287,
+          31.3381021
+        ]
+      },
+      "id": "node/2319635997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555058697",
+        "name": "السويس",
+        "name:ar": "السويس",
+        "name:en": "Al-Suez",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5276688,
+          29.9891764
+        ]
+      },
+      "id": "node/2555058697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684271787",
+        "name": "محطة سندوب",
+        "name:ar": "محطة سندوب",
+        "name:en": "Sandoub",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.39332,
+          31.0158222
+        ]
+      },
+      "id": "node/2684271787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2718667236",
+        "int_name": "Al Fant",
+        "name": "الفنت",
+        "name:ar": "الفنت",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.868204,
+          28.7480324
+        ]
+      },
+      "id": "node/2718667236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2718667239",
+        "alt_name": "محطة أبا الوقف",
+        "int_name": "Abā al Waqf, Aba al Waqf, Aba al Waqf Station",
+        "name": "محطة أبا الوقف",
+        "name:ar": "محطة أبا الوقف",
+        "name:ar1": "محطة أبا الوقف",
+        "name:de": "Aba al Waqf",
+        "name:en": "Aba al Waqf",
+        "name:fr": "Aba al Waqf",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8148245,
+          28.5832181
+        ]
+      },
+      "id": "node/2718667239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2723571740",
+        "name": "دشنا",
+        "name:ar": "دشنا",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4616661,
+          26.1233268
+        ]
+      },
+      "id": "node/2723571740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2723584164",
+        "alt_name": "محطة أولاد عمر",
+        "int_name": "Maḩaţţat Awlād ‘Amr, Mahattat Awlad Amr",
+        "name": "محطة أولاد عمر",
+        "name:ar": "محطة أولاد عمر",
+        "name:ar1": "محطة أولاد عمر",
+        "name:de": "Mahattat Awlad Amr",
+        "name:en": "Mahattat Awlad Amr",
+        "name:fr": "Mahattat Awlad Amr",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5878808,
+          26.1606338
+        ]
+      },
+      "id": "node/2723584164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2723654248",
+        "name": "قفـط",
+        "name:ar": "قفـط",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8008886,
+          25.9944865
+        ]
+      },
+      "id": "node/2723654248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2723654290",
+        "alt_name": "محطة أبنود",
+        "int_name": "Maḩaţţat Abnūd, Mahattat Abnud",
+        "name": "محطة أبنود",
+        "name:ar": "محطة أبنود",
+        "name:ar1": "محطة أبنود",
+        "name:de": "Mahattat Abnud",
+        "name:en": "Mahattat Abnud",
+        "name:fr": "Mahattat Abnud",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7967688,
+          26.0539769
+        ]
+      },
+      "id": "node/2723654290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2724801305",
+        "alt_name": "محطة الجعافرة",
+        "int_name": "El-Ga‘âfra Station, Al Gaafra Station",
+        "name": "محطة الجعافرة",
+        "name:ar": "محطة الجعافرة",
+        "name:ar1": "محطة الجعافرة",
+        "name:de": "Al Gaafra Station",
+        "name:en": "Al Gaafra Station",
+        "name:fr": "Al Gaafra Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9149535,
+          24.3247123
+        ]
+      },
+      "id": "node/2724801305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2724801316",
+        "name": "دراو",
+        "name:ar": "دراو",
+        "name:en": "Draw",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9273867,
+          24.4053453
+        ]
+      },
+      "id": "node/2724801316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726633654",
+        "alt_name": "أبو حجاج",
+        "int_name": "Abū Ḩajjāj, Abu Hajjaj",
+        "name": "أبو حجاج",
+        "name:ar": "أبو حجاج",
+        "name:ar1": "أبو حجاج",
+        "name:de": "Abu Hajjaj",
+        "name:en": "Abu Hajjaj",
+        "name:fr": "Abu Hajjaj",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8339051,
+          31.1313084
+        ]
+      },
+      "id": "node/2726633654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2925632632",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3894904,
+          30.8393149
+        ]
+      },
+      "id": "node/2925632632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3605745438",
+        "name": "سوهاج",
+        "name:ar": "سوهاج",
+        "name:en": "Sohag",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.699088,
+          26.551439
+        ]
+      },
+      "id": "node/3605745438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3605745439",
+        "name": "محطة قطار سيدى جابر",
+        "name:ar": "محطة قطار سيدى جابر",
+        "name:en": "Sidi Gaber Train Station",
+        "operator": "سكك حديد مصر",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "train",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.942465,
+          31.2189912
+        ]
+      },
+      "id": "node/3605745439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735776182",
+        "name": "برج العرب الجديدة",
+        "name:ar": "برج العرب الجديدة",
+        "name:azb": "برج العرب جدیده",
+        "name:de": "Borg el-Arab el-Gedida",
+        "name:en": "New Borg El Arab",
+        "name:fa": "برج العرب جدیده",
+        "name:fr": "Borg el-Arab el-Gedida",
+        "name:ru": "Новый Борг-эль-Араб",
+        "name:ur": "برج العرب الجدیدہ",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5936194,
+          30.8869787
+        ]
+      },
+      "id": "node/3735776182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3736064406",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5561684,
+          25.0644948
+        ]
+      },
+      "id": "node/3736064406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3745060290",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9593688,
+          30.9681076
+        ]
+      },
+      "id": "node/3745060290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759916532",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9270653,
+          24.3670398
+        ]
+      },
+      "id": "node/3759916532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874891889",
+        "name": "محطة الرمل الميري",
+        "name:ar": "محطة الرمل الميري",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9767735,
+          31.242995
+        ]
+      },
+      "id": "node/3874891889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4099047091",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3302033,
+          30.7694856
+        ]
+      },
+      "id": "node/4099047091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492770060",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9113056,
+          24.815687
+        ]
+      },
+      "id": "node/4492770060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492770061",
+        "alt_name": "محطة السراج",
+        "int_name": "Maḩaţţat as Sirāj, Mahattat al Siraj",
+        "name": "محطة السراج",
+        "name:ar": "محطة السراج",
+        "name:ar1": "محطة السراج",
+        "name:de": "Mahattat al Siraj",
+        "name:en": "Mahattat al Siraj",
+        "name:fr": "Mahattat al Siraj",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8914753,
+          24.8560258
+        ]
+      },
+      "id": "node/4492770061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492770062",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8918273,
+          24.8672212
+        ]
+      },
+      "id": "node/4492770062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492770063",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8799382,
+          24.904038
+        ]
+      },
+      "id": "node/4492770063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4493010837",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8759276,
+          24.2362892
+        ]
+      },
+      "id": "node/4493010837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4621666790",
+        "addr:city": "كوم أمبو",
+        "name": "كوم أمبو",
+        "name:ar": "كوم أمبو",
+        "name:en": "Kom Ombo",
+        "name:ru": "Ком Омбо",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9470168,
+          24.476656
+        ]
+      },
+      "id": "node/4621666790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4621674689",
+        "name:en": "Edfu",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8893036,
+          24.9902069
+        ]
+      },
+      "id": "node/4621674689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723141800",
+        "name": "محطة قطار طنطا",
+        "name:ar": "محطة قطار طنطا",
+        "name:en": "Tanta",
+        "network": "محطة قطار طنطا",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9942113,
+          30.7813342
+        ]
+      },
+      "id": "node/4723141800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5217365043",
+        "name": "الجيزة",
+        "name:ar": "الجيزة",
+        "name:en": "Giza Suburbs",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2082513,
+          30.0052451
+        ]
+      },
+      "id": "node/5217365043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5218985313",
+        "alt_name": "سبية",
+        "int_name": "Sebaiya, Sebaiya",
+        "name": "سبية",
+        "name:ar": "سبية",
+        "name:ar1": "سبية",
+        "name:de": "Sebaiya",
+        "name:en": "Sebaiya",
+        "name:fr": "Sebaiya",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7010849,
+          25.1989569
+        ]
+      },
+      "id": "node/5218985313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5316869732",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9281089,
+          24.389191
+        ]
+      },
+      "id": "node/5316869732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5639657927",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8821671,
+          24.1760069
+        ]
+      },
+      "id": "node/5639657927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5741713896",
+        "name": "منوف",
+        "name:ar": "منوف",
+        "name:de": "Minuf",
+        "name:en": "Menouf",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9388785,
+          30.4626909
+        ]
+      },
+      "id": "node/5741713896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784657560",
+        "name": "البدراشين",
+        "name:ar": "البدراشين",
+        "name:en": "Al-Badrasheen",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2774423,
+          29.8536707
+        ]
+      },
+      "id": "node/5784657560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013162698",
+        "name": "بئر حباطة",
+        "name:ar": "بئر حباطة",
+        "name:en": "Bir Habata",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.516431,
+          31.154618
+        ]
+      },
+      "id": "node/6013162698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090804167",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5468889,
+          30.8241438
+        ]
+      },
+      "id": "node/6090804167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6100702050",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5419954,
+          30.8557203
+        ]
+      },
+      "id": "node/6100702050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6102322694",
+        "name": "قرية بهيج",
+        "name:ar": "قرية بهيج",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.595433,
+          30.9215106
+        ]
+      },
+      "id": "node/6102322694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6132848326",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8509814,
+          31.1519496
+        ]
+      },
+      "id": "node/6132848326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765585",
+        "name": "محلة أبو علي",
+        "name:ar": "محلة أبو علي",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1935985,
+          30.968415
+        ]
+      },
+      "id": "node/6487765585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765586",
+        "name": "الراهبين",
+        "name:ar": "الراهبين",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2153919,
+          30.9662273
+        ]
+      },
+      "id": "node/6487765586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765587",
+        "name": "سمنود",
+        "name:ar": "سمنود",
+        "name:de": "Sebennytos",
+        "name:en": "Samannud",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2466416,
+          30.964743
+        ]
+      },
+      "id": "node/6487765587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765591",
+        "name": "ميت الكرما",
+        "name:ar": "ميت الكرما",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3305108,
+          31.0434775
+        ]
+      },
+      "id": "node/6487765591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765595",
+        "name": "الطويلة",
+        "name:ar": "الطويلة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.418748,
+          31.1214834
+        ]
+      },
+      "id": "node/6487765595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765597",
+        "name": "بطرة",
+        "name:ar": "بطرة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4420088,
+          31.1662726
+        ]
+      },
+      "id": "node/6487765597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487765599",
+        "name": "كفر الحطبة",
+        "name:ar": "كفر الحطبة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4844554,
+          31.1825099
+        ]
+      },
+      "id": "node/6487765599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487833439",
+        "name": "السعادوة",
+        "name:ar": "السعادوة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5516875,
+          31.2078413
+        ]
+      },
+      "id": "node/6487833439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487833440",
+        "name": "الصبرية",
+        "name:ar": "الصبرية",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5779518,
+          31.2239137
+        ]
+      },
+      "id": "node/6487833440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487833442",
+        "name": "محطة قطار جمصة",
+        "name:ar": "محطة قطار جمصة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6221078,
+          31.2776842
+        ]
+      },
+      "id": "node/6487833442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487833443",
+        "name": "السوالم",
+        "name:ar": "السوالم",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6425199,
+          31.3026818
+        ]
+      },
+      "id": "node/6487833443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487833444",
+        "name": "التوفيقية البلد",
+        "name:ar": "التوفيقية البلد",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7039346,
+          31.3879611
+        ]
+      },
+      "id": "node/6487833444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487833445",
+        "name": "كفر البطيخ",
+        "name:ar": "كفر البطيخ",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7385161,
+          31.4054518
+        ]
+      },
+      "id": "node/6487833445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6497561530",
+        "name": "Ikingi Maryut",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7645395,
+          30.9979606
+        ]
+      },
+      "id": "node/6497561530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6497561537",
+        "name": "Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7983194,
+          31.0182579
+        ]
+      },
+      "id": "node/6497561537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6567914726",
+        "name": "Farshot Station",
+        "name:en": "Farshot Station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1663329,
+          26.0578898
+        ]
+      },
+      "id": "node/6567914726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604373614",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4993263,
+          30.3204559
+        ]
+      },
+      "id": "node/6604373614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7984340761",
+        "monorail": "yes",
+        "name": "TB2 & TB3",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "monorail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3984162,
+          30.1121924
+        ]
+      },
+      "id": "node/7984340761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7984340765",
+        "monorail": "yes",
+        "name": "Air Mall",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "monorail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4030778,
+          30.1248681
+        ]
+      },
+      "id": "node/7984340765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7984340768",
+        "monorail": "yes",
+        "name": "Car Park",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "monorail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4013746,
+          30.1164661
+        ]
+      },
+      "id": "node/7984340768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7984340772",
+        "monorail": "yes",
+        "name": "TB1",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "monorail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4032495,
+          30.1272785
+        ]
+      },
+      "id": "node/7984340772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885199998",
+        "name": "حدائق العاصمة",
+        "name:ar": "حدائق العاصمة",
+        "name:en": "Hadayek al-Assema",
+        "name:fa": "حدائق العاصمه",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q125142207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8067825,
+          30.1366817
+        ]
+      },
+      "id": "node/9885199998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885200014",
+        "name": "مطار العاصمة",
+        "name:en": "Capital Airport",
+        "name:fa": "فرودگاه پایتخت",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q125142221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7824843,
+          30.0758949
+        ]
+      },
+      "id": "node/9885200014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885200015",
+        "light_rail": "yes",
+        "name": "مدينة الفنون و الثقافة",
+        "name:ar": "مدينة الفنون و الثقافة",
+        "name:en": "Arts and Culture City",
+        "name:fa": "شهر هنر و فرهنگ",
+        "operator": "RATP Dev Mobility Cairo",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q125142260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7250475,
+          30.0136472
+        ]
+      },
+      "id": "node/9885200015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885200016",
+        "name": "محطة الروبيكي",
+        "name:en": "El-Robaiky",
+        "name:fa": "روبیکی",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.752453,
+          30.1665323
+        ]
+      },
+      "id": "node/9885200016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252617",
+        "name": "المنطقة الصناعية",
+        "name:en": "Industrial Park",
+        "name:fa": "منطقه صنعتی",
+        "operator": "RATP Dev Mobility Cairo",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7155954,
+          30.2039612
+        ]
+      },
+      "id": "node/9885252617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252618",
+        "name": "محطة القطار الكهربائي الخفيف - مدينة المعارف",
+        "name:en": "Knowledge City Station",
+        "name:fa": "شهر دانش",
+        "operator": "RATP Dev Mobility Cairo",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6916138,
+          30.2307243
+        ]
+      },
+      "id": "node/9885252618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252627",
+        "name": "بدر",
+        "name:en": "Badr",
+        "name:fa": "بدر",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7160192,
+          30.1751897
+        ]
+      },
+      "id": "node/9885252627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252628",
+        "name": "المستقبل",
+        "name:en": "Future",
+        "name:fa": "آینده",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5540997,
+          30.173119
+        ]
+      },
+      "id": "node/9885252628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252630",
+        "name": "العبور",
+        "name:en": "El-Obour",
+        "name:fa": "عبور",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q125132255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4816102,
+          30.1629263
+        ]
+      },
+      "id": "node/9885252630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252631",
+        "name": "الشروق",
+        "name:en": "El-Shorouk",
+        "name:fa": "طلوع خورشید",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6057965,
+          30.1796323
+        ]
+      },
+      "id": "node/9885252631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252634",
+        "name": "هليوبوليس الجديدة",
+        "name:en": "New Heliopolis",
+        "name:fa": "هلیوپولیس جدید",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6526735,
+          30.1837293
+        ]
+      },
+      "id": "node/9885252634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885252635",
+        "name": "عدلى منصور",
+        "name:ar": "عدلى منصور",
+        "name:en": "Adly Mansour",
+        "name:fa": "عدلى منصور",
+        "name:fr": "Adli Mansour",
+        "name:ml": "അദ്‌ലി മൻസൂർ",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q112874062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4212712,
+          30.1464017
+        ]
+      },
+      "id": "node/9885252635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202322501",
+        "construction": "yes",
+        "name": "محطة العاصمة الأدارية-القطار السريع",
+        "name:en": "Administartive Capital HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7165979,
+          29.8821328
+        ]
+      },
+      "id": "node/10202322501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202322680",
+        "construction": "yes",
+        "name": "محطة حلوان للقطار السريع",
+        "name:en": "Helwan HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3287766,
+          29.8108764
+        ]
+      },
+      "id": "node/10202322680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239136711",
+        "construction": "yes",
+        "name:en": "El Hamam HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3491953,
+          30.8249753
+        ]
+      },
+      "id": "node/10239136711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10543116099",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9043627,
+          31.1994034
+        ]
+      },
+      "id": "node/10543116099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10543125715",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2745746,
+          31.2369319
+        ]
+      },
+      "id": "node/10543125715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10543125749",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1270923,
+          31.2389915
+        ]
+      },
+      "id": "node/10543125749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10549021787",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5997444,
+          30.9858475
+        ]
+      },
+      "id": "node/10549021787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10554265763",
+        "name": "عزبة محمد فريد",
+        "name:ar": "عزبة محمد فريد",
+        "name:de": "Ezbet Mohamed Farid",
+        "name:es": "Ezbet Mohamed Farid",
+        "name:fr": "Ezbet Mohamed Farid",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6177923,
+          30.8619616
+        ]
+      },
+      "id": "node/10554265763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10559276733",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6765299,
+          30.9607805
+        ]
+      },
+      "id": "node/10559276733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10559550678",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7212507,
+          30.9768115
+        ]
+      },
+      "id": "node/10559550678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10559574169",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8483896,
+          31.0617862
+        ]
+      },
+      "id": "node/10559574169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10561868361",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9501088,
+          30.928817
+        ]
+      },
+      "id": "node/10561868361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10561868393",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0688113,
+          30.8585871
+        ]
+      },
+      "id": "node/10561868393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10561901794",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1758964,
+          30.7905952
+        ]
+      },
+      "id": "node/10561901794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564809269",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4806756,
+          30.7390781
+        ]
+      },
+      "id": "node/10564809269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564843218",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.555645,
+          30.7147613
+        ]
+      },
+      "id": "node/10564843218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564843235",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6892011,
+          30.6939421
+        ]
+      },
+      "id": "node/10564843235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10565076427",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7634786,
+          30.6623714
+        ]
+      },
+      "id": "node/10565076427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10565170844",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7147887,
+          30.7270801
+        ]
+      },
+      "id": "node/10565170844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10565170881",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7389913,
+          30.6949318
+        ]
+      },
+      "id": "node/10565170881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10565230147",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.77992,
+          30.6287537
+        ]
+      },
+      "id": "node/10565230147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10565267102",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7905264,
+          30.5851451
+        ]
+      },
+      "id": "node/10565267102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10565267141",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8002456,
+          30.5461756
+        ]
+      },
+      "id": "node/10565267141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10567093678",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.814218,
+          30.4965395
+        ]
+      },
+      "id": "node/10567093678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10567179352",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8236618,
+          30.4630056
+        ]
+      },
+      "id": "node/10567179352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10567211879",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8268333,
+          30.4266333
+        ]
+      },
+      "id": "node/10567211879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10568031086",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8346348,
+          30.3192905
+        ]
+      },
+      "id": "node/10568031086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10568095900",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9533794,
+          30.2309749
+        ]
+      },
+      "id": "node/10568095900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570203390",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9929093,
+          30.1944856
+        ]
+      },
+      "id": "node/10570203390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570217538",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0257366,
+          30.1690414
+        ]
+      },
+      "id": "node/10570217538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570274721",
+        "name": "محطة قطار برطس",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1423814,
+          30.1506242
+        ]
+      },
+      "id": "node/10570274721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570283368",
+        "name": "محطه قطار أوسيم (سقيل)",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1622756,
+          30.131317
+        ]
+      },
+      "id": "node/10570283368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570696028",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8094545,
+          30.7397335
+        ]
+      },
+      "id": "node/10570696028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570741969",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8091742,
+          30.6902696
+        ]
+      },
+      "id": "node/10570741969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570746065",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8079828,
+          30.6655078
+        ]
+      },
+      "id": "node/10570746065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576245608",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9654107,
+          30.6161027
+        ]
+      },
+      "id": "node/10576245608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576295355",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0054261,
+          30.5046907
+        ]
+      },
+      "id": "node/10576295355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576295383",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9728916,
+          30.4787176
+        ]
+      },
+      "id": "node/10576295383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576658161",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9227556,
+          30.4191988
+        ]
+      },
+      "id": "node/10576658161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576673939",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.935122,
+          30.3670273
+        ]
+      },
+      "id": "node/10576673939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576905431",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0341408,
+          30.2618011
+        ]
+      },
+      "id": "node/10576905431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576965659",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0740197,
+          30.2434203
+        ]
+      },
+      "id": "node/10576965659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576965697",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.094854,
+          30.2209041
+        ]
+      },
+      "id": "node/10576965697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578507410",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2044616,
+          30.1814919
+        ]
+      },
+      "id": "node/10578507410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578508544",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1389536,
+          30.1952538
+        ]
+      },
+      "id": "node/10578508544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578620851",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2435468,
+          30.2098388
+        ]
+      },
+      "id": "node/10578620851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578620879",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2662771,
+          30.2338684
+        ]
+      },
+      "id": "node/10578620879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578741227",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2934196,
+          30.2807208
+        ]
+      },
+      "id": "node/10578741227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578824948",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3480163,
+          30.1758481
+        ]
+      },
+      "id": "node/10578824948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581244167",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3540284,
+          30.1860597
+        ]
+      },
+      "id": "node/10581244167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581383567",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3608615,
+          30.2205771
+        ]
+      },
+      "id": "node/10581383567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581677984",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.330877,
+          30.3051018
+        ]
+      },
+      "id": "node/10581677984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581752575",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3887005,
+          30.3481353
+        ]
+      },
+      "id": "node/10581752575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581808559",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5501212,
+          30.4667832
+        ]
+      },
+      "id": "node/10581808559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581934255",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5392045,
+          30.5048496
+        ]
+      },
+      "id": "node/10581934255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10581940271",
+        "name": "Hehya",
+        "name:ar": "ههيا",
+        "name:en": "Hehya",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5902089,
+          30.6706516
+        ]
+      },
+      "id": "node/10581940271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584058370",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7214062,
+          30.7413731
+        ]
+      },
+      "id": "node/10584058370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584158563",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8768507,
+          30.7427728
+        ]
+      },
+      "id": "node/10584158563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584190924",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9420846,
+          30.7622512
+        ]
+      },
+      "id": "node/10584190924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584291820",
+        "name": "محطة قطار الصالحية",
+        "name:en": "Salehia",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9984645,
+          30.7790381
+        ]
+      },
+      "id": "node/10584291820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10586781684",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6356697,
+          30.7832411
+        ]
+      },
+      "id": "node/10586781684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10586781704",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6278657,
+          30.7922993
+        ]
+      },
+      "id": "node/10586781704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10586876547",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5301049,
+          30.8552906
+        ]
+      },
+      "id": "node/10586876547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10588534380",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4222469,
+          30.9586573
+        ]
+      },
+      "id": "node/10588534380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10596062401",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2275414,
+          31.1754785
+        ]
+      },
+      "id": "node/10596062401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10596082420",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1634238,
+          31.1701579
+        ]
+      },
+      "id": "node/10596082420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10598550524",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0015821,
+          31.1575886
+        ]
+      },
+      "id": "node/10598550524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10598591181",
+        "name": "محطة سخا",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.943595,
+          31.0889149
+        ]
+      },
+      "id": "node/10598591181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10598629255",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8346819,
+          31.0876876
+        ]
+      },
+      "id": "node/10598629255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10599214594",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6274959,
+          31.1264911
+        ]
+      },
+      "id": "node/10599214594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10599263034",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5518365,
+          31.0694343
+        ]
+      },
+      "id": "node/10599263034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600864184",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6222673,
+          31.1615144
+        ]
+      },
+      "id": "node/10600864184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600956382",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6345558,
+          31.275776
+        ]
+      },
+      "id": "node/10600956382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10601354316",
+        "name": "المعدية",
+        "name:en": "El-Ma'addieh",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1738736,
+          31.2671612
+        ]
+      },
+      "id": "node/10601354316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10601354357",
+        "name": "الطابية",
+        "name:en": "El-Tabyah",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0826555,
+          31.2798501
+        ]
+      },
+      "id": "node/10601354357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603575099",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.315052,
+          30.693351
+        ]
+      },
+      "id": "node/10603575099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603658770",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3604973,
+          30.6678723
+        ]
+      },
+      "id": "node/10603658770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603673210",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4267011,
+          30.6230453
+        ]
+      },
+      "id": "node/10603673210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10632775799",
+        "name": "Port Said",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q11824161",
+        "wikipedia": "fr:Gare de Port-Saïd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3005799,
+          31.259825
+        ]
+      },
+      "id": "node/10632775799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10632896823",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3042389,
+          31.1371521
+        ]
+      },
+      "id": "node/10632896823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10636168484",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3107283,
+          30.9466964
+        ]
+      },
+      "id": "node/10636168484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10654333858",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2970189,
+          30.5103157
+        ]
+      },
+      "id": "node/10654333858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10655486425",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3192598,
+          30.4781755
+        ]
+      },
+      "id": "node/10655486425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10657362291",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2935708,
+          30.331617
+        ]
+      },
+      "id": "node/10657362291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10665042092",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4027992,
+          30.2498379
+        ]
+      },
+      "id": "node/10665042092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10669009257",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5521033,
+          30.0618741
+        ]
+      },
+      "id": "node/10669009257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10673054066",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9354762,
+          30.5624229
+        ]
+      },
+      "id": "node/10673054066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10673525315",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6779215,
+          30.5363635
+        ]
+      },
+      "id": "node/10673525315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680199231",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3913143,
+          30.0728802
+        ]
+      },
+      "id": "node/10680199231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680908401",
+        "name": "محطة قطار الفرقة المدرعة الرابعة",
+        "name:en": "4th Armored Division Train Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2023495,
+          30.1266154
+        ]
+      },
+      "id": "node/10680908401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680962316",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9864514,
+          30.1546004
+        ]
+      },
+      "id": "node/10680962316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10685323980",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.915857,
+          29.3412366
+        ]
+      },
+      "id": "node/10685323980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10685375901",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0294186,
+          29.3265134
+        ]
+      },
+      "id": "node/10685375901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10685533579",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1424325,
+          29.3326791
+        ]
+      },
+      "id": "node/10685533579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688353382",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8698561,
+          29.8815893
+        ]
+      },
+      "id": "node/10688353382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11427695952",
+        "construction": "yes",
+        "light_rail": "yes",
+        "network": "القطار الكهربائي الخفيف",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6872552,
+          29.958683
+        ]
+      },
+      "id": "node/11427695952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12205079573",
+        "construction": "yes",
+        "light_rail": "yes",
+        "network": "القطار الكهربائي الخفيف",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6873531,
+          29.9586797
+        ]
+      },
+      "id": "node/12205079573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12205083326",
+        "construction": "yes",
+        "light_rail": "yes",
+        "network": "القطار الكهربائي الخفيف",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7156716,
+          29.9793632
+        ]
+      },
+      "id": "node/12205083326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12205083327",
+        "construction": "yes",
+        "light_rail": "yes",
+        "network": "القطار الكهربائي الخفيف",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7157326,
+          29.979313
+        ]
+      },
+      "id": "node/12205083327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212789655",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7841987,
+          31.1008762
+        ]
+      },
+      "id": "node/12212789655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212789667",
+        "construction": "yes",
+        "name": "محطة القطار السريع مرسي مطروح",
+        "name:en": "Marsa Matrouh HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3020423,
+          31.250295
+        ]
+      },
+      "id": "node/12212789667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213546399",
+        "construction": "yes",
+        "name": "محطة وادي النطرون للقطار",
+        "name:en": "Station Wadi Natroun",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3841446,
+          30.3849253
+        ]
+      },
+      "id": "node/12213546399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213547058",
+        "construction": "yes",
+        "name": "An Nubariyah HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0672989,
+          30.6619004
+        ]
+      },
+      "id": "node/12213547058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213600596",
+        "construction": "yes",
+        "name": "محطة سفنكس للقطار السريع",
+        "name:en": "HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.762921,
+          30.1364236
+        ]
+      },
+      "id": "node/12213600596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213633143",
+        "construction": "yes",
+        "name": "القطار السريع محطة ٦ أكتوبر",
+        "name:en": "6th October HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9583169,
+          29.9964624
+        ]
+      },
+      "id": "node/12213633143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213673800",
+        "construction": "yes",
+        "name": "محطة حدائق اكتوبر المركزية",
+        "name:en": "October Gardens Central Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "opening_date": "2026",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1171735,
+          29.8723093
+        ]
+      },
+      "id": "node/12213673800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213728950",
+        "construction": "yes",
+        "name": "محطة قطار البدرشين",
+        "name:en": "Badrashin Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2714544,
+          29.8220659
+        ]
+      },
+      "id": "node/12213728950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213845122",
+        "construction": "yes",
+        "name": "محطات العين السخنة الإقليمية",
+        "name:en": "Regional Station Ain Sokhna",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2570243,
+          29.6620877
+        ]
+      },
+      "id": "node/12213845122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213986219",
+        "construction": "yes",
+        "name": "محطه القطار السريع بالعياط",
+        "name:en": "Ayat HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0362825,
+          29.5824395
+        ]
+      },
+      "id": "node/12213986219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214015232",
+        "construction": "yes",
+        "name": "محطة القطار السريع بالفيوم",
+        "name:en": "Fayoum HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9296954,
+          29.2750534
+        ]
+      },
+      "id": "node/12214015232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214094937",
+        "construction": "yes",
+        "name": "محطة القطار السريع المنيا",
+        "name:en": "Minya HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5106532,
+          28.1130459
+        ]
+      },
+      "id": "node/12214094937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214094941",
+        "name:en": "HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5502861,
+          27.8740004
+        ]
+      },
+      "id": "node/12214094941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214095954",
+        "construction": "yes",
+        "name": "محطة الفشن القطار",
+        "name:en": "Al Fashn HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7443381,
+          28.910869
+        ]
+      },
+      "id": "node/12214095954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214095969",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.617609,
+          28.7163159
+        ]
+      },
+      "id": "node/12214095969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214095988",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5744362,
+          28.5375376
+        ]
+      },
+      "id": "node/12214095988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12214142962",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6581103,
+          27.5409239
+        ]
+      },
+      "id": "node/12214142962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12218973432",
+        "name:en": "Aljbact",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1337205,
+          30.7870478
+        ]
+      },
+      "id": "node/12218973432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12218974200",
+        "construction": "yes",
+        "name:en": "Dabaa HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4946822,
+          30.9940747
+        ]
+      },
+      "id": "node/12218974200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12219008235",
+        "construction": "yes",
+        "name:en": "Swan HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0469059,
+          31.0409499
+        ]
+      },
+      "id": "node/12219008235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12219036905",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Marsa Matrouh - Ain Sokhna Railway",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5434754,
+          31.1739896
+        ]
+      },
+      "id": "node/12219036905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12222395266",
+        "construction": "yes",
+        "name:en": "HSR Station",
+        "network": "Cairo-Abu Simbel HSR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1588044,
+          26.82513
+        ]
+      },
+      "id": "node/12222395266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250242514",
+        "monorail": "yes",
+        "name": "R3",
+        "network": "مونوريل وديان",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6891649,
+          30.0172912
+        ]
+      },
+      "id": "node/12250242514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250242530",
+        "monorail": "yes",
+        "name": "People's Square",
+        "network": "مونوريل وديان",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.750102,
+          29.9953102
+        ]
+      },
+      "id": "node/12250242530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250242531",
+        "monorail": "yes",
+        "name": "Governmental District (Al-Wezarat)",
+        "network": "مونوريل وديان",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7448167,
+          30.0079754
+        ]
+      },
+      "id": "node/12250242531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250242532",
+        "monorail": "yes",
+        "name": "مدينة الفنون و الثقافة",
+        "name:ar": "مدينة الفنون و الثقافة",
+        "name:en": "Arts and Culture City",
+        "network": "مونوريل وديان",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7255853,
+          30.0080729
+        ]
+      },
+      "id": "node/12250242532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250337774",
+        "monorail": "yes",
+        "name": "Moushir Tantawi",
+        "network": "مونوريل",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3833207,
+          30.0192072
+        ]
+      },
+      "id": "node/12250337774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12269139466",
+        "name": "محطة قطار الشروق",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.623334,
+          30.181549
+        ]
+      },
+      "id": "node/12269139466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12269288498",
+        "name": "ثلاجة السبكى الجديدة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6523461,
+          30.2755677
+        ]
+      },
+      "id": "node/12269288498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12269294702",
+        "name": "ثلاجة السبكى الجديدة",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6522952,
+          30.2755367
+        ]
+      },
+      "id": "node/12269294702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12799901547",
+        "level": "2",
+        "monorail": "yes",
+        "name": "محطة الدائري",
+        "operator": "الهيئة القومية للانفاق و مقاولون العرب",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1697811,
+          30.0628697
+        ]
+      },
+      "id": "node/12799901547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12799901548",
+        "level": "2",
+        "monorail": "yes",
+        "name": "محطة الدائري",
+        "operator": "مقاولون العرب",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1697833,
+          30.0628856
+        ]
+      },
+      "id": "node/12799901548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13290620648",
+        "name": "محطة قطار الكوم الأحمر",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1843043,
+          30.1083174
+        ]
+      },
+      "id": "node/13290620648"
+    }
+  ]
+}
